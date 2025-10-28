@@ -29,7 +29,7 @@
 ```
 src/main/java/com/example/
 ├── HomeApplication.java (Classe principal)
-├── controllers/
+├── shared/
 │   └── ApiIndexController.java (Lista todos os endpoints na raiz)
 └── modules/
     ├── users/
